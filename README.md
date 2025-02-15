@@ -4,6 +4,7 @@
 This Image-Based Steganography Tool allows users to securely hide messages within images using AES encryption and LSB (Least Significant Bit) steganography. The tool features a user-friendly Streamlit-based interface for easy encoding and decoding of hidden messages.
 
 
+
 📖 Table of Contents
 	• Overview
 	• Features
@@ -17,11 +18,13 @@ This Image-Based Steganography Tool allows users to securely hide messages withi
 	• Connect with Me
 
 
+
 💪 Features
 	• 🔒 AES Encryption: Encrypts messages using AES-CBC mode before embedding them in images.
 	• 🎨 LSB Steganography: Hides encrypted messages at the pixel level for secure storage.
 	• 📂 Image Upload & Download: Supports image upload, encoding, decoding, and downloading of encrypted images.
 	• 🖥️ User-Friendly Interface: Built with Streamlit, offering an interactive and seamless experience.
+
 
 
 👁 Installation
@@ -51,6 +54,7 @@ streamlit run stego.py
 	4. View the decrypted message.
 
 
+
 📸 Screenshots
 	• 🌟 Encoding Message Preview
 	• 🔓 Decoding Message Preview
@@ -62,11 +66,13 @@ streamlit run stego.py
 	• Encrypted images should be stored securely to prevent unauthorized access.
 
 
+
 🔐 Best Practices for Security
 	• Use strong passcodes when encrypting messages.
 	• Avoid sharing encrypted images on unsecured platforms.
 	• Delete temporary files after decryption to maintain privacy.
 	• Store encrypted images in secure locations to prevent unauthorized access.
+
 
 
 👨‍💻 Technologies Used
@@ -76,8 +82,10 @@ streamlit run stego.py
 	• PyCryptodome 🔑
 
 
+
 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
 
 
 👤 Connect with Me
