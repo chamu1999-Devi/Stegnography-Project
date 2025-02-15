@@ -88,10 +88,10 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 
 👤 Connect with Me
-For questions or collaboration, feel free to connect with me on:
-	• GitHub: chamu1999-Devi
-	• LinkedIn: Your LinkedIn Profile
-	• Email: your-email@example.com
+
+	• GitHub: https://github.com/chamu1999-Devi/Stegnography-Project
+	• LinkedIn: https://www.linkedin.com/in/chamundeswaridevi
+	• Email: chamudevi061@gmail.com
 
 
 🚀 Happy Steganography! Secure your messages like a pro!
