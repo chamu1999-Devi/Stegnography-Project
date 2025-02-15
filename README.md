@@ -2,6 +2,7 @@
 👉 Overview
 This Image-Based Steganography Tool allows users to securely hide messages within images using AES encryption and LSB (Least Significant Bit) steganography. The tool features a user-friendly Streamlit-based interface for easy encoding and decoding of hidden messages.
 
+
 📖 Table of Contents
 	• Overview
 	• Features
@@ -14,20 +15,26 @@ This Image-Based Steganography Tool allows users to securely hide messages withi
 	• Contributing
 	• Connect with Me
 
+
 💪 Features
 	• 🔒 AES Encryption: Encrypts messages using AES-CBC mode before embedding them in images.
 	• 🎨 LSB Steganography: Hides encrypted messages at the pixel level for secure storage.
 	• 📂 Image Upload & Download: Supports image upload, encoding, decoding, and downloading of encrypted images.
 	• 🖥️ User-Friendly Interface: Built with Streamlit, offering an interactive and seamless experience.
 
+
 👁 Installation
 Follow these steps to install and set up the tool:
 Step 1: Clone the Repository
 git clone https://github.com/chamu1999-Devi/Steganography.git
+
 Step 2: Install Dependencies
 pip install streamlit opencv-python numpy pycryptodome
+
 Step 3: Run the Application
 streamlit run stego.py
+
+
 
 🛠️ Usage
 🔵 Encoding a Message
@@ -42,14 +49,17 @@ streamlit run stego.py
 	3. Click "Decode Message".
 	4. View the decrypted message.
 
+
 📸 Screenshots
 	• 🌟 Encoding Message Preview
 	• 🔓 Decoding Message Preview
+
 
 🛡️ Security Considerations
 	• AES encryption ensures messages remain secure.
 	• Messages can only be retrieved using the correct passcode.
 	• Encrypted images should be stored securely to prevent unauthorized access.
+
 
 🔐 Best Practices for Security
 	• Use strong passcodes when encrypting messages.
@@ -57,14 +67,17 @@ streamlit run stego.py
 	• Delete temporary files after decryption to maintain privacy.
 	• Store encrypted images in secure locations to prevent unauthorized access.
 
+
 👨‍💻 Technologies Used
 	• Python 🐍
 	• Streamlit 📈
 	• OpenCV 🎥
 	• PyCryptodome 🔑
 
+
 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
 
 👤 Connect with Me
 For questions or collaboration, feel free to connect with me on:
@@ -72,7 +85,5 @@ For questions or collaboration, feel free to connect with me on:
 	• LinkedIn: Your LinkedIn Profile
 	• Email: your-email@example.com
 
-🚀 Happy Steganography! Secure your messages like a pro!
 
-From <https://chatgpt.com/c/67ad885b-1168-8006-bfb8-452a1c233e9f> 
-![image](https://github.com/user-attachments/assets/25ca2f4c-e264-4224-87c7-c554a36fff23)
+🚀 Happy Steganography! Secure your messages like a pro!
