@@ -85,7 +85,8 @@ This Image-Based Steganography Tool allows users to securely hide messages withi
 
 🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
+	
+	Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 
 👤 Connect with Me
