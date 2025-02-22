@@ -91,8 +91,9 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 👤 Connect with Me
 
 For questions or collaboration, feel free to connect with me on:
+
 	• GitHub: chamu1999-Devi
-	• Email: your-email@example.com
+	• Email: chamudevidevi061@example.com
 
 
 🚀 Happy Steganography! Secure your messages like a pro!
