@@ -20,6 +20,7 @@ This Image-Based Steganography Tool allows users to securely hide messages withi
 
 
 💪 Features
+
 	• 🔒 AES Encryption: Encrypts messages using AES-CBC mode before embedding them in images.
 	• 🎨 LSB Steganography: Hides encrypted messages at the pixel level for secure storage.
 	• 📂 Image Upload & Download: Supports image upload, encoding, decoding, and downloading of encrypted images.
@@ -27,6 +28,7 @@ This Image-Based Steganography Tool allows users to securely hide messages withi
 	
 
 👁 Installation
+
 Follow these steps to install and set up the tool:
 Step 1: Clone the Repository
 git clone https://github.com/chamu1999-Devi/Steganography.git
@@ -86,4 +88,3 @@ For questions or collaboration, feel free to connect with me on:
 
 
 🚀 Happy Steganography! Secure your messages like a pro!
-![image](https://github.com/user-attachments/assets/04ba5400-dc21-451e-adea-279815fb9e13)
